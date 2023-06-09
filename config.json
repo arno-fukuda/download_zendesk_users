@@ -1,0 +1,5 @@
+{
+  "username": "<Your Zendesk user emailaddress>",
+  "api_token": "<API token created in Zendesk>",
+  "zndsk_subdomain": "<Your Zendesk instance Subdomain>"
+}
